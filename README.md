@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kevin Oliveira
+### Olá! Eu sou o Kevin Lopes
 
 - 🔭 Trabalho com Front-End
 - 🌱 Estudo HTML, CSS, JavaScript, Noce e React
