@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Kevin Lopes
 
 - 🔭 Trabalho com Front-End
-- 🌱 Estudo HTML, CSS, JavaScript, Noce e React
-- 🪐Formando pela DevClub
+- 🌱 Estudo HTML, CSS, JavaScript, Node e React
+- 🪐Formado pela DevClub
 - 😄 Pronouns: ele/dele
 
 <div
@@ -31,7 +31,7 @@
   <a href="https://discord.gg/kevino.2146" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kevinoliveiralopes0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="rigth" alt="gif" height="100" width="120" padding="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDIwaWJ2bjg0NXhqbzR1bXZhc3ZrNjR1MzZ2bThkbG1lM3FrNWowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
+   <img align="right" alt="gif" height="100" width="120" padding="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDIwaWJ2bjg0NXhqbzR1bXZhc3ZrNjR1MzZ2bThkbG1lM3FrNWowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
   
   
 </div>
