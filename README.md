@@ -8,7 +8,6 @@
 <div
   
 ![KevLps's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevLps&show_icons=true&theme=dracula)
-![KevLps's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevLps&layout=compact&langs_count=16&theme=dracula)
 
 </div>
 
