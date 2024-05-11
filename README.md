@@ -1,9 +1,14 @@
-### Olá! Eu sou o Kevin Lopes
+### Hi! 
 
-- 🔭 Trabalho com Front-End
-- 🌱 Estudo HTML, CSS, JavaScript, Node e React
-- 🪐Formado pela DevClub
-- 😄 Pronouns: ele/dele
+I'm Kevin Lopes. front-end developer. I have experience Front-end projects. 
+I'm interested in improving myself with JavaScript, currently my studies are focused on this area.
+
+- 🔭 Currently improving myself in JavaScript.
+- 🌱 Studying HTML, CSS, JavaScript, Node and React.
+- 🪐 Studying at DevClub DevClub.
+- 😄 I work on personal projects, but I'm open to contact.
+- ☕ Fun fact: I like coffee!
+
 
 <div
   
@@ -11,7 +16,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevLps&layout=donut&theme=dracula)](https://github.com/KevLps/github-readme-stats)
 
 </div>
 
