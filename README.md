@@ -5,7 +5,7 @@ I'm interested in improving myself with JavaScript, currently my studies are foc
 
 - 🔭 Currently improving myself in JavaScript.
 - 🌱 Studying HTML, CSS, JavaScript, Node and React.
-- 🪐 Studying at DevClub DevClub.
+- 🪐 Studying at DevClub.
 - 😄 I work on personal projects, but I'm open to contact.
 - ☕ Fun fact: I like coffee!
 
